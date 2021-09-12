@@ -18,6 +18,7 @@
 	-   [좋은 객체 지향 설계의 5가지 원칙 (SOLID)](https://github.com/bum12ark/TIL/blob/main/Spring/Spring%20Core%20Principles/1_Object%20Oriented%20Design%20and%20Spring/%EC%A2%8B%EC%9D%80%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%9D%98%205%EA%B0%80%EC%A7%80%20%EC%9B%90%EC%B9%99%20(SOLID).md)
 
 - 스프링 핵심 원리 이해1 - 예제만들기
+- 스프링 핵심 원리 이해2 - 객체 지향 원리 적용
 
 ### AWS
 -   [AWS Solution Architect Preparation Material](https://github.com/bum12ark/TIL/blob/main/AWS/AWS%20Solution%20Architect%20Preparation%20Material.md)
