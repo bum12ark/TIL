@@ -19,6 +19,16 @@
 
 - 스프링 핵심 원리 이해1 - 예제만들기
 - 스프링 핵심 원리 이해2 - 객체 지향 원리 적용
+- 스프링 컨테이너와 스프링 빈
+- 싱글톤 컨테이너
+- 컴포넌트 스캔
+- 의존관계 자동 주입
+	- 다양한 의존관계 주입방법과 옵션 처리
+	- 생성자 주입을 선택해라!
+	- 조회 빈이 2개 이상 (@Qualifier, @Primary, List, Map)
+	- 자동, 수동의 올바른 실무 운영 기준 (@ComponentScan, @Configuration)
+- 빈 생명주기 콜백
+- 빈 스코프
 
 ### AWS
 -   [AWS Solution Architect Preparation Material](https://github.com/bum12ark/TIL/blob/main/AWS/AWS%20Solution%20Architect%20Preparation%20Material.md)
