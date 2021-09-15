@@ -12,6 +12,8 @@
 
 #### Spring 핵심 원리
 
+**[예제 프로젝트 바로가기](https://github.com/bum12ark/study_lecture/tree/main/core)**
+
 - 객체지향 설계와 스프링
  - [스프링이란?](https://github.com/bum12ark/TIL/blob/main/Spring/Spring%20Core%20Principles/1_Object%20Oriented%20Design%20and%20Spring/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4%EB%9E%80.md)
    -   [좋은 객체 지향 프로그래밍이란?](https://github.com/bum12ark/TIL/blob/main/Spring/Spring%20Core%20Principles/1_Object%20Oriented%20Design%20and%20Spring/%EC%A2%8B%EC%9D%80%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80.md)
@@ -23,7 +25,7 @@
 - 싱글톤 컨테이너
 - 컴포넌트 스캔
 - 의존관계 자동 주입
-   - 다양한 의존관계 주입방법과 옵션 처리
+  - 다양한 의존관계 주입방법과 옵션 처리
   - 생성자 주입을 선택해라!
   - 조회 빈이 2개 이상 (@Qualifier, @Primary, List, Map)
   - 자동, 수동의 올바른 실무 운영 기준 (@ComponentScan, @Configuration)
