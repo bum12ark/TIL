@@ -1,6 +1,7 @@
 # Today I Learned
 
 -   좋은 개발자가 되기 위해 하루동안 학습한 내용이나 개발관련 경험들을 기록으로 남긴다.
+-   개인 [Tech Blog로 활용하고 있는 Notion](https://bum13.notion.site/7c92319da0534d7280ede4bb6dfccfef)에 1차적으로 포스팅 후 2차적으로 Github에 업로드 하고 있다.
 
 [JayJin](https://github.com/milooy)님,  [Lee HyunJoo](https://wayhome25.github.io/)님,  [RingoPPA](https://github.com/ksu3101)님, [namjunemy](https://github.com/namjunemy)님의 Github TIL을 보고 많은 영감을 얻었다.
 
@@ -39,6 +40,7 @@
 
 ### JPA (Java Persistence API)
 
+#### 자바 ORM 표준 JPA 프로그래밍 - 기본편
 > [참고: 자바 ORM 표준 JPA 프로그래밍 - 기본편(인프런 - 김영한)](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)   
 > [예제 프로젝트 바로가기](https://github.com/bum12ark/study_lecture/tree/main/jpa-basic)
 
