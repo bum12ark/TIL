@@ -37,6 +37,45 @@
   - [프로토타입 스코프 - 싱글톤 빈과 함께 사용시 문제점 및 해결법](https://github.com/bum12ark/TIL/blob/main/Spring/Spring%20Core%20Principles/8_Bean%20Scope/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%20%EC%8A%A4%EC%BD%94%ED%94%84%20-%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%EB%B9%88%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EC%82%AC%EC%9A%A9%EC%8B%9C%20%EB%AC%B8%EC%A0%9C%EC%A0%90%20%EB%B0%8F%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
   - [웹 스코프](https://github.com/bum12ark/TIL/blob/main/Spring/Spring%20Core%20Principles/8_Bean%20Scope/%EC%9B%B9%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
 
+### JPA (Java Persistence API)
+
+> [참고: 자바 ORM 표준 JPA 프로그래밍 - 기본편(인프런 - 김영한)](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)   
+> [예제 프로젝트 바로가기](https://github.com/bum12ark/study_lecture/tree/main/jpa-basic)
+
+- JPA 소개
+  - [SQL 중심적인 개발의 문제점](https://github.com/bum12ark/TIL/blob/main/JPA/1_JPA%20%EC%86%8C%EA%B0%9C/SQL%20%EC%A4%91%EC%8B%AC%EC%A0%81%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
+  - [JPA 소개](https://github.com/bum12ark/TIL/blob/main/JPA/1_JPA%20%EC%86%8C%EA%B0%9C/JPA%20%EC%86%8C%EA%B0%9C.md)
+- 영속성 관리
+  - [영속성 컨텍스트](https://github.com/bum12ark/TIL/blob/main/JPA/2_%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
+- 엔티티 매핑
+  - [객체와 테이블 매핑 & 데이터베이스 스키마 자동 생성](https://github.com/bum12ark/TIL/blob/main/JPA/3_%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91/%EA%B0%9D%EC%B2%B4%EC%99%80%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%A7%A4%ED%95%91%20%26%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8A%A4%ED%82%A4%EB%A7%88%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.md)
+  - [필드와 컬럼 매핑 & 기본키 매핑](https://github.com/bum12ark/TIL/blob/main/JPA/3_%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91/%ED%95%84%EB%93%9C%EC%99%80%20%EC%BB%AC%EB%9F%BC%20%EB%A7%A4%ED%95%91%20%26%20%EA%B8%B0%EB%B3%B8%ED%82%A4%20%EB%A7%A4%ED%95%91.txt)
+- 연관관계 매핑 기초
+  - [객체를 테이블에 맞추어 모델링 & 단방향 연관관계](https://github.com/bum12ark/TIL/blob/main/JPA/3_%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91/%EA%B0%9D%EC%B2%B4%EC%99%80%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%A7%A4%ED%95%91%20%26%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8A%A4%ED%82%A4%EB%A7%88%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.md)
+  - [양방향 연관관계와 연관관계의 주인](https://github.com/bum12ark/TIL/blob/main/JPA/3_%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91/%ED%95%84%EB%93%9C%EC%99%80%20%EC%BB%AC%EB%9F%BC%20%EB%A7%A4%ED%95%91%20%26%20%EA%B8%B0%EB%B3%B8%ED%82%A4%20%EB%A7%A4%ED%95%91.txt)
+- 다양한 연관관계 매핑
+  - [다대일 & 일대다]()
+  - [일대일 & 다대다]()
+- 고급 매핑
+  - [상속관계 매핑](https://github.com/bum12ark/TIL/blob/main/JPA/6_%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91/%EC%83%81%EC%86%8D%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91.md)
+  - [Mapped Superclass - 매핑 정보 상속](https://github.com/bum12ark/TIL/blob/main/JPA/6_%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91/Mapped%20Superclass%20-%20%EB%A7%A4%ED%95%91%20%EC%A0%95%EB%B3%B4%20%EC%83%81%EC%86%8D.md)
+- 프록시와 연관관계 관리
+  - [프록시](https://github.com/bum12ark/TIL/blob/main/JPA/7_%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC/%ED%94%84%EB%A1%9D%EC%8B%9C.md)
+  - [즉시 로딩과 지연 로딩](https://github.com/bum12ark/TIL/blob/main/JPA/7_%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC/%EC%A6%89%EC%8B%9C%20%EB%A1%9C%EB%94%A9%EA%B3%BC%20%EC%A7%80%EC%97%B0%20%EB%A1%9C%EB%94%A9.md)
+  - [영속성 전이: CASECADE](https://github.com/bum12ark/TIL/blob/main/JPA/7_%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%A0%84%EC%9D%B4%20-%20CASCADE.md)
+- 값 타입
+  - [기본값 타입 & 임베디드 타입](https://github.com/bum12ark/TIL/blob/main/JPA/8_%EA%B0%92%20%ED%83%80%EC%9E%85/%EA%B8%B0%EB%B3%B8%EA%B0%92%20%ED%83%80%EC%9E%85%20%26%20%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%20%ED%83%80%EC%9E%85.md)
+  - [값 타입과 불변 객체 & 값 타입의 비교](https://github.com/bum12ark/TIL/blob/main/JPA/8_%EA%B0%92%20%ED%83%80%EC%9E%85/%EA%B0%92%20%ED%83%80%EC%9E%85%EA%B3%BC%20%EB%B6%88%EB%B3%80%20%EA%B0%9D%EC%B2%B4%20%26%20%EA%B0%92%20%ED%83%80%EC%9E%85%EC%9D%98%20%EB%B9%84%EA%B5%90.md)
+  - [값 타입 컬렉션](https://github.com/bum12ark/TIL/blob/main/JPA/8_%EA%B0%92%20%ED%83%80%EC%9E%85/%EA%B0%92%20%ED%83%80%EC%9E%85%20%EC%BB%AC%EB%A0%89%EC%85%98.md)
+- 객체지향 쿼리 언어1 - 기본 문법
+  - 객체지향 쿼리 언어 (JPQL) 소개 & 기본 문법과 쿼리 API
+  - 프로젝션(SELECT) & 페이징 & 조인 & 서브쿼리
+  - JPQL 타입표현 & 조건식 & 함수
+- 객체지향 쿼리 언어2 - 중급 문법
+  - 경로 표현식
+  - 페치 조인 (Fetch Join)
+  - Named 쿼리 & 벌크 연산
+
 ### AWS
 
 -   [AWS Solution Architect Preparation Material](https://github.com/bum12ark/TIL/blob/main/AWS/AWS%20Solution%20Architect%20Preparation%20Material.md)
