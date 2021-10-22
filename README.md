@@ -75,9 +75,9 @@
   - [값 타입과 불변 객체 & 값 타입의 비교](https://github.com/bum12ark/TIL/blob/main/JPA/8_%EA%B0%92%20%ED%83%80%EC%9E%85/%EA%B0%92%20%ED%83%80%EC%9E%85%EA%B3%BC%20%EB%B6%88%EB%B3%80%20%EA%B0%9D%EC%B2%B4%20%26%20%EA%B0%92%20%ED%83%80%EC%9E%85%EC%9D%98%20%EB%B9%84%EA%B5%90.md)
   - [값 타입 컬렉션](https://github.com/bum12ark/TIL/blob/main/JPA/8_%EA%B0%92%20%ED%83%80%EC%9E%85/%EA%B0%92%20%ED%83%80%EC%9E%85%20%EC%BB%AC%EB%A0%89%EC%85%98.md)
 - 객체지향 쿼리 언어1 - 기본 문법
-  - 객체지향 쿼리 언어 (JPQL) 소개 & 기본 문법과 쿼리 API
-  - 프로젝션(SELECT) & 페이징 & 조인 & 서브쿼리
-  - JPQL 타입표현 & 조건식 & 함수
+  - [객체지향 쿼리 언어 (JPQL) 소개 & 기본 문법과 쿼리 API](https://github.com/bum12ark/TIL/blob/main/JPA/9_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B41%20-%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B4%20(JPQL)%20%EC%86%8C%EA%B0%9C%20%26%20%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95%EA%B3%BC%20%EC%BF%BC%EB%A6%AC%20API.md)
+  - [프로젝션(SELECT) & 페이징 & 조인 & 서브쿼리](https://github.com/bum12ark/TIL/blob/main/JPA/9_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B41%20-%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95/%ED%94%84%EB%A1%9C%EC%A0%9D%EC%85%98(SELECT)%20%26%20%ED%8E%98%EC%9D%B4%EC%A7%95%20%26%20%EC%A1%B0%EC%9D%B8%20%26%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.md)
+  - [JPQL 타입표현 & 조건식 & 함수](https://github.com/bum12ark/TIL/blob/main/JPA/9_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B41%20-%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95/JPQL%20%ED%83%80%EC%9E%85%ED%91%9C%ED%98%84%20%26%20%EC%A1%B0%EA%B1%B4%EC%8B%9D%20%26%20%ED%95%A8%EC%88%98.md)
 - 객체지향 쿼리 언어2 - 중급 문법
   - 경로 표현식
   - 페치 조인 (Fetch Join)
