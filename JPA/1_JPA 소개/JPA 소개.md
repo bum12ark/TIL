@@ -14,7 +14,7 @@
 
 ## JPA는 애플리케이션과 JDBC 사이에서 동작
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e743a89c-d808-4689-b25f-1fb2672af4db/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/72686708/138983415-995f5f0d-235f-489d-aa2e-964c2a3ce9c1.png)
 
 ## JPA 장점 (사용해야하는 이유)
 
@@ -64,7 +64,7 @@
 
 ## 데이터베이스 방언
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78658d3e-b062-41b4-a47b-3b9694c88026/Untitled.png)
+![Untitled 1](https://user-images.githubusercontent.com/72686708/138983432-169bbba9-60c0-4288-ae1b-71c3d986f697.png)
 
 - JPA는 특정 데이터베이스에 종속 X
 - 각각 데이터베이스가 제공하는 SQL 문법과 함수는 조금씩 다르다.
@@ -79,13 +79,13 @@
 
 ## JPA 구동 방식
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b42d8db4-af96-4c10-bdd0-824293e2aa3e/Untitled.png)
+![Untitled 2](https://user-images.githubusercontent.com/72686708/138983504-3b882bfb-1e57-46c5-9199-eff1d8b2f3de.png)
 
 ## H2 데이터베이스 파일 생성 방법
 
 - h2/bin/build 파일로 실행
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/650bd842-cf16-4170-a662-d79bee8f36e7/Untitled.png)
+![Untitled 3](https://user-images.githubusercontent.com/72686708/138983514-7c99511c-20c7-407a-9733-db0f64c0de18.png)
 
 1. [localhost:8082](http://localhost:8082) 로 접속
 2. JDBC URL: 사용할 데이터 베이스 파일을 생성하기 위한 url 작성
