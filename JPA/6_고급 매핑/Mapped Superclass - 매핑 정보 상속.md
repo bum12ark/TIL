@@ -2,7 +2,7 @@
 
 - 공통 매핑 정보가 필요할 때 사용 (id, name)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ab79814-2075-4393-863e-c6eea4ef479f/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/72686708/139000619-5411d174-a23b-48b6-a65b-9d29f0e428d8.png)
 
 - **상속 관계 매핑 X**
 - 엔티티 X, 테이블과 매핑 X
