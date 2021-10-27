@@ -28,7 +28,7 @@
 
 **예제 시나리오**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c511ee1-9dd3-42d9-b929-69499fdf6d86/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/72686708/139003480-5c59c9bc-d185-4207-9717-84fb70f1ad9c.png)
 
 ```java
 void insertFetchJoinData(EntityManager entityManager) {
@@ -205,9 +205,9 @@ results.size() = 3
 [jpql.domain.Team@3596b249] 팀C = Member{id=6, name='회원3', age=30}
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f08a7dff-2be7-4588-99cc-8056a4555afc/Untitled.png)
+![Untitled 1](https://user-images.githubusercontent.com/72686708/139003503-6aa1a95f-092b-43fb-ae96-c52d0982414f.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78d23e33-c4bc-4136-b9e3-060ee95d82c7/Untitled.png)
+![Untitled 2](https://user-images.githubusercontent.com/72686708/139003510-5ac5941d-ce3f-44b8-b4b9-3bffc3d2c5e3.png)
 
 - 관계형 DB는 조인을 할경우 로우의 수가 증가되도록 설계
 - JPA는 DB의 결과 수 만큼 컬렉션 을 만들어 돌려주도록 설계
@@ -286,7 +286,7 @@ results.size() = 2
 [jpql.domain.Team@781711b7] 팀C = Member{id=6, name='회원3', age=30}
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1fb92fc-a6d2-44cf-851b-aee910713048/Untitled.png)
+![Untitled 3](https://user-images.githubusercontent.com/72686708/139003519-bcd4af67-a1aa-4e19-8ae0-8e03c107637a.png)
 
 - SQL에 DISTINCT를 추가하지만 데이터가다르므로 SQL 결과에서 중복제거 실패
 - DISTINCT가 추가로 애플리케이션에서 중복 제거 시도
