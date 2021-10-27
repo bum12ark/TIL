@@ -18,13 +18,13 @@
 
 1. 상속
    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50de3c3e-94d2-4714-92df-64eb25ec085c/Untitled.png)
-    
+    ![Untitled](https://user-images.githubusercontent.com/72686708/138983285-311bd214-f93d-4c62-9abf-fee62b7fc8f8.png)
+
     - 조회하는 단계에서 객체간 매핑 작업이 필요해진다.
         - 객체를 쪼개어 만들었기 때문에 각각의 테이블에 따른 조인 쿼리를 만든 후 해당하는 객체 생성 후 객체에 맞도록 변수에 넣어주는 작업
 2. 연관관계
    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef1054c5-dac9-4a57-926b-a5bc5b56140d/Untitled.png)
+    ![Untitled 1](https://user-images.githubusercontent.com/72686708/138983320-7024a151-d4fe-400d-9179-d4b41db76ef2.png)
     
     - 객체는 참조를 사용: `member.getTeam()`
     - 테이블은 외래 키를 사용: `JOIN ON M.team_id = T.team_id`
@@ -36,7 +36,7 @@
 
 **객체 그래프 탐색:** 객체는 자유롭게 객체 그래프를 탐색할 수 있어야 한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa7f2042-5a59-4faf-b9b8-6ea289e5760a/Untitled.png)
+![Untitled 2](https://user-images.githubusercontent.com/72686708/138983338-63fef023-fdad-4d58-b10f-e697c6997d74.png)
 
 - 처음 실행하는 SQL에 따라 탐색 범위가 결정되기 때문!
   
