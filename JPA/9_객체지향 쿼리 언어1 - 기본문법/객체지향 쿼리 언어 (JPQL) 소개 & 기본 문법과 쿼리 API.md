@@ -93,7 +93,7 @@ List<Member> results =
 
 ### 예제 모델
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d430d88d-0e44-4004-ae9f-2709ec9c5329/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/72686708/139003173-3191d978-fd7c-413f-b05f-4290c8480a28.png)
 
 ### JPQL 문법
 
