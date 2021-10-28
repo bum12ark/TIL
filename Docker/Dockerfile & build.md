@@ -49,7 +49,7 @@ docker images
 - `docker commit [OPTIONS] CONTAINER [REPOSITORY[:TAG]]`
 - `docker images`
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd3cfc26-57b1-4d6d-8915-4b2d0e017bb6/Untitled.png)
+    ![Untitled](https://user-images.githubusercontent.com/72686708/139217751-5d427da3-1566-4fe4-aad2-9f5db96553f9.png)
     
 
 ### Dockerfild: build 사용
@@ -69,7 +69,7 @@ docker images
     
 - GUI 확인
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1b851a0d-c961-4b94-97d5-389a6b6838f1/Untitled.png)
+    ![Untitled 1](https://user-images.githubusercontent.com/72686708/139217775-1011c2c1-f53b-4a1b-b100-f5fd89a144b9.png)
     
 
 ### 예제 - 스프링 부트 프로젝트로 이미지 만들기
@@ -119,11 +119,11 @@ docker images
 2. gradle build를 통해 jar 파일을 생성
     - build/libs 폴더에 jar파일이 생성된 것을 확인 할 수 있다.
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ef993c5-cd57-4467-8153-4b469852a9f0/Untitled.png)
+        ![Untitled 2](https://user-images.githubusercontent.com/72686708/139217814-f49a7528-8029-4520-a87e-b0964e79c248.png)
         
     - `java -jar build/libs/docker-demo-0.0.1-SNAPSHOT.jar` 명령어를 통해 정상 동작하는지 확인 가능하다.
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c51ebc53-2497-4490-8036-03e533852d93/Untitled.png)
+        ![Untitled 3](https://user-images.githubusercontent.com/72686708/139217841-2c9e2351-f55e-4eb7-9eec-5a69d054f50c.png)
         
         - 스프링 부트가 로컬에서 정상적으로 동작하는 것을 확인
 3. SpringBoot 웹 프로젝트 jar로 도커파일 만들기
@@ -147,7 +147,7 @@ docker images
     
     - docker images 명렁어를 통해 성공정으로 이미지가 생성된 것을 확인할 수 있다.
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ec3b57f-3d9b-4de8-91eb-9c86808e744c/Untitled.png)
+        ![Untitled 4](https://user-images.githubusercontent.com/72686708/139217859-c9ef863c-ee9a-43e7-b3f7-36d5f3c25a52.png)
         
 5. 생성한 docker 이미지를 실행하여 동작 확인
     
@@ -159,6 +159,6 @@ docker images
         - 8081 포트로 접근 가능하며 톰캣의 8080포트로 포트 포워딩 시켜준다
 6. 동작 확인
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/399e0657-53fc-4153-8ec2-7c9ea8013de2/Untitled.png)
+    ![Untitled 5](https://user-images.githubusercontent.com/72686708/139217881-4db7fb54-f5fc-4c61-9586-c23be540f560.png)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c078d8c-ba1f-4bde-90f1-5d2dd6d378bd/Untitled.png)
+    ![Untitled 6](https://user-images.githubusercontent.com/72686708/139217901-57f5f850-148c-4eca-a270-ecd46920fbf4.png)
