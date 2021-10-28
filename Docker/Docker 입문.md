@@ -27,7 +27,7 @@
 
 ### 용어 정리
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38215111-179f-4378-80b0-1c5c8ef86a93/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/72686708/139216341-ecf070d0-5068-439e-be55-e9e3ae2ac769.png)
 
 - **docker hub**
     - docker를 사용하는데 필요한 이미지를 다운로드 하게 지원해주는 레지스트리 (ex. App Store)
@@ -49,11 +49,11 @@
 2. Explore 메뉴 클릭
 3. Containers 탭 클릭
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/602b823a-82b5-495f-aa8c-97212cc565cc/Untitled.png)
+    ![Untitled 1](https://user-images.githubusercontent.com/72686708/139216385-d67fe5a3-fc78-4a13-b01a-9c75b706d8be.png)
     
 4. 아파치 웹 서버 httpd 클릭
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74d6c9a9-48ad-44ed-8cd4-b88213eb6f50/Untitled.png)
+    ![Untitled 2](https://user-images.githubusercontent.com/72686708/139216403-e1dbb664-61f1-48ad-9c39-b799e02b6e8b.png)
     
     - 화면 오른쪽 명령어를 통해 설치 가능하다.
     - 참고: [Docker Referencce](https://docs.docker.com/reference/) 페이지를 통해 여러 메뉴얼을 확인 할 수 있다.
@@ -63,7 +63,7 @@
 
 - `docker images [OPTIONS] [REPOSITORY[:TAG]]`
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb495898-da21-4dbf-8a53-6a984e26fb2f/Untitled.png)
+![Untitled 3](https://user-images.githubusercontent.com/72686708/139216425-67d239f0-d1e1-4085-a2e7-73ca410bdf1a.png)
 
 ## 이미지, 컨테이너 기본 조작 명령어
 
@@ -74,7 +74,7 @@
 
 **GUI 사용**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cfc4ea1-b86e-4fac-b43f-fda01ca3949c/Untitled.png)
+![Untitled 4](https://user-images.githubusercontent.com/72686708/139216445-bd60974b-8aa8-4471-898f-b1d6cda4bcff.png)
 
 1. images 탭 클릭
 2. httpd 이미지의 run 버튼 클릭
@@ -88,7 +88,7 @@
 
 - `docker run [OPTIONS] IMAGE [COMMAND] [ARG...]`
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/840d770d-546e-4fee-9966-3e18b35c5b65/Untitled.png)
+![Untitled 5](https://user-images.githubusercontent.com/72686708/139216463-2cb322d2-dd74-47e9-9380-00a8bee9244b.png)
 
 - 이름을 명시 하지 않을 경우 임의의 이름으로 컨테이너가 만들어 지게 된다.
 - `docker --name ws2 httpd`
@@ -105,7 +105,7 @@
 
 - `docker stop [OPTIONS] CONTAINER [CONTAINER...]`
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db91fae0-80bb-4ebd-9202-04319913fe33/Untitled.png)
+![Untitled 6](https://user-images.githubusercontent.com/72686708/139216502-d40df955-38a9-4ae9-8315-cd60a1df8ab4.png)
 
 - docker stop 명령어는 컨테이너를 종료하는 것이지 삭제 하는 것이 아니다.
 
@@ -136,7 +136,7 @@
 
 ### 도커 사용 X
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2bc578a0-b619-440e-ac4b-724ca72572b3/Untitled.png)
+![Untitled 7](https://user-images.githubusercontent.com/72686708/139216530-a8297dba-7aba-4182-abc5-85390b067743.png)
 
 - 두대의 컴퓨터가 필요하다. (클라이언트, 서버)
 - **클라이언트**
@@ -148,7 +148,7 @@
 
 ### 도커 사용
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/079db46b-d068-4fc8-851a-c6f67e2f9956/Untitled.png)
+![Untitled 8](https://user-images.githubusercontent.com/72686708/139216545-96382331-53be-4268-9e91-6a2f576c39ce.png)
 
 - 웹서버가 컴퓨터가 아닌 컨테이너에 설치된다.
 - 컨테이너가 설치된 운영체제를 도커 호스트(Host)라고 한다.
@@ -166,7 +166,7 @@
 1. Images → Run
 2. Local Host: Host의 Port 번호
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01175548-aade-40e3-9aa5-3c93275cdd2b/Untitled.png)
+    ![Untitled 9](https://user-images.githubusercontent.com/72686708/139216569-c8e4239e-325a-4c23-931b-8c154f848f4e.png)
     
 
 ### 실습 - CLI 사용
@@ -189,7 +189,7 @@
 
 - `localhost:[포트번호]` 에 접속하여 정상 동작 여부 확인 가능
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c8c399a-b142-4295-b7d4-f68a79cab1a9/Untitled.png)
+![Untitled 10](https://user-images.githubusercontent.com/72686708/139216605-fbd59c97-1521-4c29-a64f-c636b966842e.png)
 
 ## 명령어(CLI) 사용
 
