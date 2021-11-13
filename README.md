@@ -89,6 +89,15 @@
   - [페치 조인 (Fetch Join)](https://github.com/bum12ark/TIL/blob/main/JPA/10_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B42%20-%20%EC%A4%91%EA%B8%89%EB%AC%B8%EB%B2%95/%ED%8E%98%EC%B9%98%20%EC%A1%B0%EC%9D%B8%20(fetch%20join).md)
   - [Named 쿼리 & 벌크 연산](https://github.com/bum12ark/TIL/blob/main/JPA/10_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B42%20-%20%EC%A4%91%EA%B8%89%EB%AC%B8%EB%B2%95/Named%20%EC%BF%BC%EB%A6%AC%20%26%20%EB%B2%8C%ED%81%AC%20%EC%97%B0%EC%82%B0.md)
 
+### MSA
+
+#### Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)
+
+> [참고: Spring Cloud로 개발하는 마이크로서비스 애플리케이션 (인프런 - Dowon Lee)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4/dashboard)
+
+- MicroService와 Spring Cloud 소개
+  - [MicroService와 Spring Cloud 소개](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Mircroservice%EC%99%80%20Spring%20Cloud%EC%9D%98%20%EC%86%8C%EA%B0%9C.md)
+
 ### Docker
 
 - [Docker 입문](https://github.com/bum12ark/TIL/blob/main/Docker/Docker%20%EC%9E%85%EB%AC%B8.md)
