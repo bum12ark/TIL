@@ -63,16 +63,12 @@
 
 ### DevOps
 
-![Untitled](Mircroservice%E1%84%8B%E1%85%AA%20Spring%20Cloud%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20e092cc6eac544501b10a113ac877aea9/Untitled.png)
-
-![Untitled](Mircroservice%E1%84%8B%E1%85%AA%20Spring%20Cloud%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20e092cc6eac544501b10a113ac877aea9/Untitled%201.png)
-
 - 소프트웨어의 개발과 운영의 합성어
 - 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화
 
 ### Container 가상화
 
-![Untitled](Mircroservice%E1%84%8B%E1%85%AA%20Spring%20Cloud%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20e092cc6eac544501b10a113ac877aea9/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/72686708/141685541-7b644621-cab7-469a-824f-bfca9c5dc996.png)
 
 - OS 레벨에서 어플리케이션 실행 환경을 격리함으로써 마치 다른 OS에서 동작하는 것과 같은 가상 실행 환경을 제공하는 기술
 - 컨테이너는 VM과 유사하지만 격리 속성을 완화하여 애플리케이션 간에 운영체제(OS)를 공유하므로 각각의 컨테이너는 보다 가벼움
@@ -204,11 +200,11 @@
 
 ## Microservice Arichitecture Structures
 
-![Untitled](Mircroservice%E1%84%8B%E1%85%AA%20Spring%20Cloud%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20e092cc6eac544501b10a113ac877aea9/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/72686708/141685545-443e0f63-f6da-4519-92a9-bd91bd25464c.png)
 
 ### Service Mesh
 
-![Untitled](Mircroservice%E1%84%8B%E1%85%AA%20Spring%20Cloud%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20e092cc6eac544501b10a113ac877aea9/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/72686708/141685564-7fd0d48d-f437-4387-ad79-12861be15b1f.png)
 
 - MSA 인프라 → **미들웨어**
     - 프록시 역할, 인증, 권환 부여, 암호화, 서비스 검색, 요청 라우팅, 로드 밸런싱
@@ -224,7 +220,7 @@
 
 ### MSA 기반 기술
 
-![Untitled](Mircroservice%E1%84%8B%E1%85%AA%20Spring%20Cloud%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20e092cc6eac544501b10a113ac877aea9/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/72686708/141685568-7c2cc018-7524-4fbf-8875-e967d38be78f.png)
 
 ## Spring Cloud란?
 
