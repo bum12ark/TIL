@@ -1,7 +1,3 @@
-# Mircroservice와 Spring Cloud의 소개
-
-생성일: 2021년 11월 14일 오전 11:53
-
 ## 소프트웨어 아키텍처
 
 ### The History of IT System
