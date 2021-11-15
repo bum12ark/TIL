@@ -97,6 +97,8 @@
 
 - MicroService와 Spring Cloud 소개
   - [MicroService와 Spring Cloud 소개](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Mircroservice%EC%99%80%20Spring%20Cloud%EC%9D%98%20%EC%86%8C%EA%B0%9C.md)
+- Service Discovery
+  - [Service Discovery](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Service%20Discovery.md)
 
 ### Docker
 
