@@ -99,6 +99,8 @@
   - [MicroService와 Spring Cloud 소개](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Mircroservice%EC%99%80%20Spring%20Cloud%EC%9D%98%20%EC%86%8C%EA%B0%9C.md)
 - Service Discovery
   - [Service Discovery](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Service%20Discovery.md)
+- Api Gateway Service
+  - [API Gateway & Netflix Zuul](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/API%20Gateway%20%26%20Netflix%20Zuul.md)
 
 ### Docker
 
