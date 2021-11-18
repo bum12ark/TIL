@@ -101,6 +101,7 @@
   - [Service Discovery](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Service%20Discovery.md)
 - Api Gateway Service
   - [API Gateway & Netflix Zuul](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/API%20Gateway%20%26%20Netflix%20Zuul.md)
+  - [Spring Cloud Gateway](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Spring%20Cloud%20Gateway.md)
 
 ### Docker
 
