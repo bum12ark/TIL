@@ -102,6 +102,8 @@
 - Api Gateway Service
   - [API Gateway & Netflix Zuul](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/API%20Gateway%20%26%20Netflix%20Zuul.md)
   - [Spring Cloud Gateway](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Spring%20Cloud%20Gateway.md)
+- E-commerce 애플리케이션
+  - [E-commerce 애플리케이션 구성](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/E-commerce%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EA%B5%AC%EC%84%B1.md)
 
 ### Docker
 
