@@ -106,7 +106,7 @@
   - [E-commerce 애플리케이션 구성](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/E-commerce%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EA%B5%AC%EC%84%B1.md)
 - Users Microservice (1)
   - [Users Microservice 프로젝트 생성](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Users%20Microservice%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%83%9D%EC%84%B1.md)
-
+  - [사용자 추가 & Spring Security 연동](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%B6%94%EA%B0%80%20%26%20Spring%20Security%20%EC%97%B0%EB%8F%99.md)
 ### Docker
 
 - [Docker 입문](https://github.com/bum12ark/TIL/blob/main/Docker/Docker%20%EC%9E%85%EB%AC%B8.md)
