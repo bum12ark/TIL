@@ -107,6 +107,8 @@
 - Users Microservice (1)
   - [Users Microservice 프로젝트 생성](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Users%20Microservice%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%83%9D%EC%84%B1.md)
   - [사용자 추가 & Spring Security 연동](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%B6%94%EA%B0%80%20%26%20Spring%20Security%20%EC%97%B0%EB%8F%99.md)
+  - [Spring Gateway 연동 & 사용자 조회 구현](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Spring%20Gateway%20%EC%97%B0%EB%8F%99%20%26%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A1%B0%ED%9A%8C%20%EA%B5%AC%ED%98%84.md)
+
 ### Docker
 
 - [Docker 입문](https://github.com/bum12ark/TIL/blob/main/Docker/Docker%20%EC%9E%85%EB%AC%B8.md)
