@@ -110,6 +110,7 @@
   - [Spring Gateway 연동 & 사용자 조회 구현](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Spring%20Gateway%20%EC%97%B0%EB%8F%99%20%26%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A1%B0%ED%9A%8C%20%EA%B5%AC%ED%98%84.md)
 - Catalogs and Orders Microservice
   - [Catalogs MicroService](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Catalogs%20MicroService.md)
+  - [Orders MicroService](https://github.com/bum12ark/TIL/blob/main/MSA/Spring%20Cloud/Orders%20Microservice.md)
 
 ### Docker
 
