@@ -14,6 +14,9 @@
 -   [@ExceptionHandler](https://github.com/bum12ark/TIL/blob/main/Spring/%40ExceptionHandler.md)
 -   [ControllerAdvice와 ExceptionHandler를 사용한 전역 예외 처리](https://github.com/bum12ark/TIL/blob/main/Spring/ControllerAdvice%EC%99%80%20ExceptionHandler%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%A0%84%EC%97%AD%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.md)
 
+### Spring REST Docs
+- [Spring REST Docs 적용하기 (gradle7)](https://github.com/bum12ark/TIL/blob/main/Spring/Spring%20REST%20Docs%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0%20(gradle7).md)
+
 #### TDD
 -   [@SpringBootTest](https://github.com/bum12ark/TIL/blob/main/Spring/TDD/%40SpringBootTest.md)
 
